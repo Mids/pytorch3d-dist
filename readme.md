@@ -8,11 +8,11 @@ dependencies = [
 
 [[tool.rye.sources]]
 name = "pytorch3d"
-url = "https://anigmadev.github.io/pytorch3d-dist/"
+url = "https://mids.github.io/pytorch3d-dist/"
 type = "find-links"
 ```
 
 ## pip
 ```
-pip install --find-links "https://anigmadev.github.io/pytorch3d-dist/" pytorch3d
+pip install --find-links "https://mids.github.io/pytorch3d-dist/" pytorch3d
 ```
